@@ -1,0 +1,51 @@
+ID	Genre	title	Author 	Purchase Price £	Purchase Date 
+1	finance	Rich Dad Poor Dad	Robert Kiyosaki	7.99	15/08/2014
+2	finance	Rich Dad Poor Dad	Robert Kiyosaki	7.99	16/04/2018
+3	finance	Rich Dad Poor Dad	Robert Kiyosaki	7.99	12/01/2011
+4	finance	Rich Dad Poor Dad	Robert Kiyosaki	7.99	13/12/2017
+5	self help	Daily Routine Mastery	Dominic Mann	7.72	02/02/2014
+6	self help	Daily Routine Mastery	Dominic Mann	7.72	23/04/2011
+7	self help	Daily Routine Mastery	Dominic Mann	7.72	07/11/2016
+8	self help	The Book of Over Thinking 	Gwendoline Smith	8.75	06/10/2017
+9	self help	The Book of Over Thinking 	Gwendoline Smith	8.75	16/03/2020
+10	self help	Master your Emotions	Thibault Meurisse	12.54	04/04/2014
+11	self help	Master your Emotions	Thibault Meurisse	12.54	08/04/2022
+12	self help	Master your Emotions	Thibault Meurisse	12.54	15/06/2015
+13	self help	Hack your Habits	Joanna Jast	12.05	18/05/2011
+14	self help	Hack your Habits	Joanna Jast	12.05	05/07/2020
+15	self help	Hack your Habits	Joanna Jast	12.05	09/12/2014
+16	fiction	Gone	Michael Grant 	8.27	18/01/2021
+17	fiction 	Harry Potter and The Philosopher's Stone	J.K.Rowling	4	06/11/2013
+18	fiction 	Harry Potter and The Philosopher's Stone	J.K.Rowling	4	30/08/2016
+19	fiction 	Harry Potter and The Philosopher's Stone	J.K.Rowling	4	07/10/2022
+20	self help	The Power of Dicipline 	Daniel Walter	17.99	20/12/2021
+21	self help	The Power of Dicipline 	Daniel Walter	17.99	13/07/2012
+22	self help	The Power of Dicipline 	Daniel Walter	17.99	13/07/2012
+23	novel	Normal people	Sally Rooney	4.5	15/05/2012
+24	novel	Germinal 	Emile Zola 	9.99	03/12/2021
+25	novel	Germinal 	Emile Zola 	9.99	29/06/2014
+26	novel	L'Assommoir	Emile Zola 	8.25	20/10/2011
+27	finance 	The Milllionaire Fastlane	M.J. DeMarco	15.09	26/09/2021
+28	self help	"Escape the 9-5, Live Anywhere and Join the New Rich "	Timothy  Ferriss	10.49	04/03/2012
+29	finance	The Intelligent Investor	Benjamin Graham	13.99	27/01/2017
+30	finance	The Intelligent Investor	Benjamin Graham	13.99	19/01/2014
+31	finance	One Up On Wall Street: How To Use What You Already Know To Make Money In The Market 	Peter Lynch	7.98	14/07/2010
+32	self help	Models: Attract Women Through Honesty 	Mark Manson	8.07	18/03/2015
+33	self help	Models: Attract Women Through Honesty 	Mark Manson	8.07	03/01/2022
+34	novel	Variant 	Robison Wells	7.15	18/02/2013
+35	non fiction 	The Art of War 	Sun Tzu	2.99	26/11/2010
+36	fiction 	All the Light We Cannot See	Anthony Doerr	8.64	12/06/2022
+37	Autobiography	Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins	Garry Kasparov	9.15	07/08/2012
+38	Thrillers	The Dogs in the Street 	J M Dalgliesh 	9.95	11/09/2015
+39	self help 	Atomic Habits	James Clear	13.15	16/09/2015
+40	self help 	The Mental Toughness Handbook	Damon Zahariades	8.99	19/04/2016
+41	self help 	Clear Goals	Patrick Drechsler	11.99	22/03/2017
+42	self help 	Deep Work 	Cal newport	9.5	11/03/2015
+43	self help	Winner's Habits	Patrick Drechsler	12.99	14/03/2018
+44	self help 	The Art of Seduction 	Victoria Onica	9.99	13/03/2012
+45	self help 	Body language How To Read Anybody 	Derek Borthwick	14.63	10/12/2019
+46	self help 	Bold Body language 	Gerard Shaw	12.21	01/01/2011
+47	self help 	How to Anlyze people	Beto Canales	14.97	28/03/2016
+48	light novel 	Fantazy of the Demon Hunter	Nakanishi	13.99	28/07/2017
+49	fiction 	Better than the movies	Lynn Painter 	8.99	12/12/2014
+50	fiction 	The fortunes of Jaded Women 	Carolyn Huynh	11.99	06/09/2010
